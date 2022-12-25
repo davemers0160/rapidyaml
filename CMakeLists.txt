@@ -17,7 +17,7 @@ option(RYML_DEFAULT_CALLBACKS "Enable ryml's default implementation of callbacks
 option(RYML_BUILD_TOOLS "build tools" OFF)
 option(RYML_BUILD_API "Enable API generation (python, etc)" OFF)
 option(RYML_DBG "Enable (very verbose) ryml debug prints." OFF)
-
+option(BUILD_SHARED_LIBS "Build as a shared library." OFF)
 
 #-------------------------------------------------------
 
